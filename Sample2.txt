@@ -1,1 +1,1 @@
-I am learning Git. Today is 14th January
+I am learning Git. Today is 14th January. Hello, I am just learning.
