@@ -1,9 +1,0 @@
-This is M1 - Modified in Main after merge
-this is M2
-This is M3
-<<<<<<< HEAD
-This is F1 - This is a change done from Main Branch
-=======
-This is F1 - Modified in feature branch
->>>>>>> feature1
-This is F2 - Modified in feature branch after merge.
