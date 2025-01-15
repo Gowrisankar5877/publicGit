@@ -1,1 +1,1 @@
-Restoration of file sample now in working directory. I have added it to staging
+Working on restoration it will commited 
